@@ -29,6 +29,9 @@ ML-based recommendation system that suggests suitable fertilizers based on crop 
 ### 🧠 [AI-Based Brain Tumor Detection](https://github.com/uradinarsimulu45/AI_Based_Brain_Tumor_Detection)
 Deep learning system for brain tumor detection from MRI scans, using a MobileNetV2-based model for medical image classification. Includes a Streamlit web app for real-time image upload and prediction — built to assist early diagnosis support.
 `Python` `TensorFlow` `Keras` `MobileNetV2` `OpenCV` `Streamlit`
+### 🧠 [OmniBrain — Agentic Multi-Modal RAG](https://github.com/uradinarsimulu45/OmniBrain1)
+An agentic, multi-modal Retrieval-Augmented Generation system that understands and answers questions from complex documents containing text, images, and tables — combining semantic search, document parsing, and agent-based orchestration with LangGraph.
+`Python` `FastAPI` `LangChain` `LangGraph` `FAISS` `Qdrant` `PyMuPDF`
 
 ---
 

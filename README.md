@@ -72,13 +72,13 @@
 <tr>
 <td width="50%" valign="top">
 
-**OmniBrain — Agentic Multi-Modal RAG**
+**NexaMind — Agentic Multi-Modal RAG**
 
 Agentic, multi-modal Retrieval-Augmented Generation system that understands and answers questions from complex documents containing text, images, and tables — combining semantic search, document parsing, and LangGraph-based agent orchestration.
 
 `Python` `FastAPI` `LangChain` `LangGraph` `FAISS` `Qdrant` `PyMuPDF`
 
-<a href="https://github.com/uradinarsimulu45/OmniBrain1"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/uradinarsimulu45/NexaMind"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">

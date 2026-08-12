@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Uradi%20Narsimulu-6C63FF?style=for-the-badge&labelColor=6C63FF&color=6C63FF" height="45" />
+# Uradi Narsimulu
 
 **AI/ML Engineer &nbsp;·&nbsp; Computer Science Undergraduate**
 
@@ -39,15 +39,6 @@ Deep learning system classifying brain MRI scans as tumor / no-tumor using a Mob
 **[Fertilizer Recommendation Engine](https://github.com/uradinarsimulu45/FertilizerRecommender)** &nbsp;·&nbsp; [Live Demo](https://ferti-recommend.streamlit.app/)
 ML-based system recommending suitable fertilizers from crop and soil parameters using a Decision Tree / Random Forest classifier. 95% test accuracy.
 `Python` `Pandas` `NumPy` `Scikit-Learn` `Streamlit`
-
-<br/>
-
-### GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=uradinarsimulu45&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uradinarsimulu45&layout=compact&theme=default&hide_border=true&hide_title=true" width="30%" />
-</div>
 
 <br/>
 

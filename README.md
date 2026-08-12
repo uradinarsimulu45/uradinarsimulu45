@@ -1,6 +1,6 @@
 <div align="center">
 
-# Uradi Narsimulu
+<img src="https://img.shields.io/badge/Uradi%20Narsimulu-6C63FF?style=for-the-badge&labelColor=6C63FF&color=6C63FF" height="45" />
 
 **AI/ML Engineer &nbsp;·&nbsp; Computer Science Undergraduate**
 
